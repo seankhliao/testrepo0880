@@ -7,4 +7,5 @@ func main() {
 	fmt.Println("Foo Bar, 2")
 	fmt.Println("new message", "extra")
 	fmt.Println("better")
+	fmt.Println("even more work", 2)
 }
